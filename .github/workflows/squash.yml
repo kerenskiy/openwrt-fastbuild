@@ -37,11 +37,7 @@ jobs:
           - normal
           - test
         target:
-          - 19.07.7
-          - 19.07.8
-          - 21.02.0
           - 21.02.1
-          - snapshot
         include:
           - mode: normal
             title: Squashing builder
